@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="input.h" />
     <ClInclude Include="pbPlots.hpp" />
     <ClInclude Include="perceptron.h" />
     <ClInclude Include="supportLib.hpp" />
